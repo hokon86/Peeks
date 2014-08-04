@@ -16,6 +16,8 @@
 		7B8FD880198EEB1700317D6A /* settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B8FD87F198EEB1700317D6A /* settings@2x.png */; };
 		7B8FD883198F7C1B00317D6A /* PeekTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FD882198F7C1B00317D6A /* PeekTableViewController.m */; };
 		7B8FD886198F7CBC00317D6A /* PeekDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FD885198F7CBC00317D6A /* PeekDetailViewController.m */; };
+		7BE1B834198F891F0019D521 /* DiscoveryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE1B831198F891F0019D521 /* DiscoveryTableViewController.m */; };
+		7BE1B835198F891F0019D521 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE1B833198F891F0019D521 /* SettingsViewController.m */; };
 		7BE2F6551975DBE8000208A4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F6541975DBE8000208A4 /* Foundation.framework */; };
 		7BE2F6571975DBE8000208A4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F6561975DBE8000208A4 /* CoreGraphics.framework */; };
 		7BE2F6591975DBE8000208A4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F6581975DBE8000208A4 /* UIKit.framework */; };
@@ -29,7 +31,6 @@
 		7BE2F6761975DBE9000208A4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F6581975DBE8000208A4 /* UIKit.framework */; };
 		7BE2F67E1975DBE9000208A4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7BE2F67C1975DBE9000208A4 /* InfoPlist.strings */; };
 		7BE2F6801975DBE9000208A4 /* PeeksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2F67F1975DBE9000208A4 /* PeeksTests.m */; };
-		7BE2F68B1975DC8C000208A4 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2F68A1975DC8C000208A4 /* SettingsViewController.m */; };
 		7BE2F68D1975DD1E000208A4 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F68C1975DD1E000208A4 /* AudioToolbox.framework */; };
 		7BE2F68F1975DD26000208A4 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F68E1975DD26000208A4 /* CFNetwork.framework */; };
 		7BE2F6911975DD32000208A4 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F6901975DD32000208A4 /* CoreLocation.framework */; };
@@ -40,7 +41,6 @@
 		7BE2F69B1975DD5A000208A4 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F69A1975DD5A000208A4 /* StoreKit.framework */; };
 		7BE2F69D1975DD62000208A4 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F69C1975DD62000208A4 /* SystemConfiguration.framework */; };
 		7BE2F69F1975DD7E000208A4 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE2F69E1975DD7E000208A4 /* Parse.framework */; };
-		7BE2F6A81975DE96000208A4 /* DiscoveryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2F6A71975DE96000208A4 /* DiscoveryTableViewController.m */; };
 		7BE2F6AB1975E01A000208A4 /* StartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2F6AA1975E01A000208A4 /* StartViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -67,6 +67,10 @@
 		7B8FD882198F7C1B00317D6A /* PeekTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeekTableViewController.m; sourceTree = "<group>"; };
 		7B8FD884198F7CBC00317D6A /* PeekDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeekDetailViewController.h; sourceTree = "<group>"; };
 		7B8FD885198F7CBC00317D6A /* PeekDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeekDetailViewController.m; sourceTree = "<group>"; };
+		7BE1B830198F891F0019D521 /* DiscoveryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscoveryTableViewController.h; sourceTree = "<group>"; };
+		7BE1B831198F891F0019D521 /* DiscoveryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscoveryTableViewController.m; sourceTree = "<group>"; };
+		7BE1B832198F891F0019D521 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		7BE1B833198F891F0019D521 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		7BE2F6511975DBE8000208A4 /* Peeks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Peeks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BE2F6541975DBE8000208A4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7BE2F6561975DBE8000208A4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -84,8 +88,6 @@
 		7BE2F67B1975DBE9000208A4 /* PeeksTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PeeksTests-Info.plist"; sourceTree = "<group>"; };
 		7BE2F67D1975DBE9000208A4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7BE2F67F1975DBE9000208A4 /* PeeksTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PeeksTests.m; sourceTree = "<group>"; };
-		7BE2F6891975DC8C000208A4 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SettingsViewController.h; path = ../SettingsViewController.h; sourceTree = "<group>"; };
-		7BE2F68A1975DC8C000208A4 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SettingsViewController.m; path = ../SettingsViewController.m; sourceTree = "<group>"; };
 		7BE2F68C1975DD1E000208A4 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		7BE2F68E1975DD26000208A4 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		7BE2F6901975DD32000208A4 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
@@ -96,8 +98,6 @@
 		7BE2F69A1975DD5A000208A4 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		7BE2F69C1975DD62000208A4 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		7BE2F69E1975DD7E000208A4 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = Peeks/Parse.framework; sourceTree = "<group>"; };
-		7BE2F6A61975DE96000208A4 /* DiscoveryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DiscoveryTableViewController.h; path = ../DiscoveryTableViewController.h; sourceTree = "<group>"; };
-		7BE2F6A71975DE96000208A4 /* DiscoveryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DiscoveryTableViewController.m; path = ../DiscoveryTableViewController.m; sourceTree = "<group>"; };
 		7BE2F6A91975E01A000208A4 /* StartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartViewController.h; sourceTree = "<group>"; };
 		7BE2F6AA1975E01A000208A4 /* StartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -179,10 +179,10 @@
 		7BE2F65A1975DBE8000208A4 /* Peeks */ = {
 			isa = PBXGroup;
 			children = (
-				7BE2F6A61975DE96000208A4 /* DiscoveryTableViewController.h */,
-				7BE2F6A71975DE96000208A4 /* DiscoveryTableViewController.m */,
-				7BE2F6891975DC8C000208A4 /* SettingsViewController.h */,
-				7BE2F68A1975DC8C000208A4 /* SettingsViewController.m */,
+				7BE1B830198F891F0019D521 /* DiscoveryTableViewController.h */,
+				7BE1B831198F891F0019D521 /* DiscoveryTableViewController.m */,
+				7BE1B832198F891F0019D521 /* SettingsViewController.h */,
+				7BE1B833198F891F0019D521 /* SettingsViewController.m */,
 				7BE2F6631975DBE8000208A4 /* AppDelegate.h */,
 				7BE2F6641975DBE8000208A4 /* AppDelegate.m */,
 				7BE2F6661975DBE8000208A4 /* Main.storyboard */,
@@ -338,12 +338,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7BE2F6A81975DE96000208A4 /* DiscoveryTableViewController.m in Sources */,
 				7B8FD883198F7C1B00317D6A /* PeekTableViewController.m in Sources */,
-				7BE2F68B1975DC8C000208A4 /* SettingsViewController.m in Sources */,
 				7BE2F6AB1975E01A000208A4 /* StartViewController.m in Sources */,
 				7B8FD886198F7CBC00317D6A /* PeekDetailViewController.m in Sources */,
+				7BE1B835198F891F0019D521 /* SettingsViewController.m in Sources */,
 				7BE2F6651975DBE8000208A4 /* AppDelegate.m in Sources */,
+				7BE1B834198F891F0019D521 /* DiscoveryTableViewController.m in Sources */,
 				7B8FD874198EE5D000317D6A /* CountyViewController.m in Sources */,
 				7BE2F6611975DBE8000208A4 /* main.m in Sources */,
 			);

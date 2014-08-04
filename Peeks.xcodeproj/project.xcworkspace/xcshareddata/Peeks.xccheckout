@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A36DE14E-1F1F-4E86-A970-67B3D1D2E77A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Peeks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDB9453E-A497-4332-9B93-75CE8187F4F8</key>
+		<string>https://github.com/hokon86/Peeks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Peeks.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDB9453E-A497-4332-9B93-75CE8187F4F8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hokon86/Peeks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDB9453E-A497-4332-9B93-75CE8187F4F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDB9453E-A497-4332-9B93-75CE8187F4F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Peeks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
