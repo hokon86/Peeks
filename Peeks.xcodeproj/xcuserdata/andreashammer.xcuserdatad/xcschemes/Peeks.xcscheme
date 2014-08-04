@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B8FD88F198F7F5400317D6A"
+               BlueprintIdentifier = "7BE2F6501975DBE8000208A4"
                BuildableName = "Peeks.app"
                BlueprintName = "Peeks"
                ReferencedContainer = "container:Peeks.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B8FD8B0198F7F5400317D6A"
+               BlueprintIdentifier = "7BE2F6711975DBE8000208A4"
                BuildableName = "PeeksTests.xctest"
                BlueprintName = "PeeksTests"
                ReferencedContainer = "container:Peeks.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B8FD88F198F7F5400317D6A"
+            BlueprintIdentifier = "7BE2F6501975DBE8000208A4"
             BuildableName = "Peeks.app"
             BlueprintName = "Peeks"
             ReferencedContainer = "container:Peeks.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B8FD88F198F7F5400317D6A"
+            BlueprintIdentifier = "7BE2F6501975DBE8000208A4"
             BuildableName = "Peeks.app"
             BlueprintName = "Peeks"
             ReferencedContainer = "container:Peeks.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B8FD88F198F7F5400317D6A"
+            BlueprintIdentifier = "7BE2F6501975DBE8000208A4"
             BuildableName = "Peeks.app"
             BlueprintName = "Peeks"
             ReferencedContainer = "container:Peeks.xcodeproj">

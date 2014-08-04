@@ -2,17 +2,20 @@
 //  AppDelegate.m
 //  Peeks
 //
-//  Created by Andreas Hammer on 04/08/14.
+//  Created by Andreas Hammer on 16/07/14.
 //  Copyright (c) 2014 Hammer Productions. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import <Parse/Parse.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [Parse setApplicationId:@"YvhkWYj53wOD6ooT7ygRp4sFEqpG9XlYiz8cW4ph" clientKey:@"KwPuqtCkvjcUzIhGRO2QeZPf51ibgWVIOu7r89Ir"];
+    [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     return YES;
 }
 							
